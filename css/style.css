@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: #202023;
+}
+
+.bg-translucent {
+    background-color: #2020232d;
+}
+
+.m-10 {
+    margin-bottom: 100px;
+}
+
